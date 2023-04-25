@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/goals-todos-app./static/css/main.77d1f9c3.css",
+    "main.js": "/goals-todos-app./static/js/main.30c6d2e4.js",
+    "static/js/787.d5f6b5e1.chunk.js": "/goals-todos-app./static/js/787.d5f6b5e1.chunk.js",
+    "static/media/background.jpg": "/goals-todos-app./static/media/background.310f1df3df1a379e4cff.jpg",
+    "static/media/view.svg": "/goals-todos-app./static/media/view.072841ec485329026f2d.svg",
+    "index.html": "/goals-todos-app./index.html",
+    "static/media/delete.svg": "/goals-todos-app./static/media/delete.3bd55674ff9a21e40acc.svg",
+    "main.77d1f9c3.css.map": "/goals-todos-app./static/css/main.77d1f9c3.css.map",
+    "main.30c6d2e4.js.map": "/goals-todos-app./static/js/main.30c6d2e4.js.map",
+    "787.d5f6b5e1.chunk.js.map": "/goals-todos-app./static/js/787.d5f6b5e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77d1f9c3.css",
+    "static/js/main.30c6d2e4.js"
+  ]
+}
